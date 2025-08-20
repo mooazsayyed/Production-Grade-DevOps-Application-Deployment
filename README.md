@@ -712,18 +712,23 @@ filebeatConfig:
 upgrade filebeat helm chart and check in kibana’s UI if the app logs are streaming.
 
 ## **Congratulations!** <br/>
-![EasyShop Website Screenshot](./public/easyshop.JPG)
+![EasyShop Website Screenshot](<img width="1919" height="1079" alt="Screenshot 2025-08-19 212251" src="https://github.com/user-attachments/assets/e13d184e-74a9-4d92-b5ca-351baf515168" />
+)
+
+<img width="1919" height="1079" alt="Screenshot 2025-08-19 212246" src="https://github.com/user-attachments/assets/9cd683a7-0795-4874-82f6-fb35e859e28f" />
 
 ---
 
 ### 📌 Architecture Diagram
+![devops-complete1](https://github.com/user-attachments/assets/60b336c7-1b89-41f4-8bd2-71a78f2e82a1)
+
 ![Diagram](./public/diagram-export.JPG)
 
 ---
 
 ### 📌 ArgoCD
-![ArgoCD](./public/Argocd.JPG)
-
+![ArgoCD](<img width="1919" height="1034" alt="Screenshot 2025-08-19 212240" src="https://github.com/user-attachments/assets/943062de-851a-4df7-b2fa-bec6d6061c29" />
+)
 ---
 
 ### 📌 Capture
@@ -731,23 +736,29 @@ upgrade filebeat helm chart and check in kibana’s UI if the app logs are strea
 
 ---
 
-### 📌 AlertManager
+### 📌 Alerts On Slack
 ![AlertManager](./public/alertManager.JPG)
 
+<img width="1916" height="952" alt="image" src="https://github.com/user-attachments/assets/e8241171-e46b-42e8-b22d-226b50a5f2a6" />
 
 ---
 
 ### 📌 Grafana Dashboard
-![Grafana](./public/grafana.JPG)
+![Grafana](<img width="1919" height="1039" alt="Screenshot 2025-08-19 212202" src="https://github.com/user-attachments/assets/98dc0fc6-1759-4737-8831-42674a427b85" />
+)
 
 ---
 
-### 📌 Kibana Logs View
-![Kibana](./public/kibana.JPG)
+### 📌 Grafana Dashboard View
+![Kibana](<img width="1919" height="1039" alt="Screenshot 2025-08-19 212202" src="https://github.com/user-attachments/assets/854f3cb7-2cab-4beb-9331-c1f344ae87c0" />
+)
+
+<img width="1905" height="1030" alt="Screenshot 2025-08-19 212153" src="https://github.com/user-attachments/assets/24c45bc2-3e3b-451e-80c3-af7665d3390d" />
 
 ---
 
 ### 📌 Prometheus Dashboard
-![Prometheus](./public/prometheus.JPG)
+![Prometheus](<img width="1919" height="1028" alt="Screenshot 2025-08-19 212208" src="https://github.com/user-attachments/assets/ad4d2d1a-2241-4a1a-b57a-277a6a51aeb7" />
+)
 
 ### WO! ooo!!! ...Your project is now deployed.
