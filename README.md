@@ -712,7 +712,7 @@ filebeatConfig:
 Upgrade the filebeat helm chart and check in Kibana’s UI if the app logs are streaming.
 
 ## **Congratulations!** <br/>
-![EasyShop Website Screenshot](<img width="1919" height="1079" alt="Screenshot 2025-08-19 212251" src="https://github.com/user-attachments/assets/e13d184e-74a9-4d92-b5ca-351baf515168" />)
+<img width="1919" height="1079" alt="Screenshot 2025-08-19 212251" src="https://github.com/user-attachments/assets/e13d184e-74a9-4d92-b5ca-351baf515168" />
 
 <img width="1919" height="1079" alt="Screenshot 2025-08-19 212246" src="https://github.com/user-attachments/assets/9cd683a7-0795-4874-82f6-fb35e859e28f" />
 
@@ -749,6 +749,6 @@ Upgrade the filebeat helm chart and check in Kibana’s UI if the app logs are s
 ---
 
 ### 📌 Prometheus Dashboard
-![Prometheus](<img width="1919" height="1028" alt="Screenshot 2025-08-19 212208" src="https://github.com/user-attachments/assets/ad4d2d1a-2241-4a1a-b57a-277a6a51aeb7" />)
+<img width="1919" height="1028" alt="Screenshot 2025-08-19 212208" src="https://github.com/user-attachments/assets/ad4d2d1a-2241-4a1a-b57a-277a6a51aeb7" />
 
 ### WO! ooo!!! ...Your project is now deployed.
