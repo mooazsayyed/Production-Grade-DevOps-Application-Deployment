@@ -92,7 +92,7 @@ sudo ./aws/install
 - **Default output format:**<br/>
 
 > [!NOTE] 
-> Make sure the IAM user you're using has the necessary permissions. You’ll need an AWS IAM Role with programmatic access enabled, along with the Access Key and Secret Key.
+> Make sure the IAM user you're using has the necessary permissions. You'll need an AWS IAM Role with programmatic access enabled, along with the Access Key and Secret Key.
 
 ## Getting Started
 
@@ -101,7 +101,7 @@ sudo ./aws/install
 1. **Clone the Repository:**
 First, clone this repo to your local machine:<br/>
 ```bash
-git clone https://github.com/LondheShubham153/tws-e-commerce-app.git
+git clone https://github.com/mooazsayyed/Production-Grade-DevOps-Application-Deployment
 cd terraform
 ```
 2. **Generate SSH Key Pair:**
